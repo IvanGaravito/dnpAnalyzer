@@ -1,13 +1,3 @@
-# dnpAnalizer
-
-> A DNP 3.0 datagram parser for protocol learning and fail analysis.
-
-## Introduction
-
-Under development.
-
-## License 
-
 (The MIT License)
 
 Copyright (c) 2013 Ivan Garavito &lt;ivangaravito@gmail.com&gt;
