@@ -33,11 +33,12 @@ $(function () {
         if (!d.data('valid')) return e.preventDefault()
         d.val(d.val().replace(/[^ABCDEFabcdef0-9]/g, '').replace(/\s/g, '').toUpperCase() || '')
         if (!d.val()) return e.preventDefault()
-        
+
+        $('#datagramResult').fadeOut()
+
         $.get('/datagram?' + d.val(), function (data) {
             $('#datagramResultData').html(data);
             $('#datagramResult').fadeIn()
-            console.log("Load was performed.");
         });
         e.preventDefault()
     })
