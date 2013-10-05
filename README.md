@@ -1,4 +1,4 @@
-# dnpAnalizer
+# dnpAnalyzer
 
 > A DNP 3.0 datagram parser for protocol learning and fail analysis.
 
