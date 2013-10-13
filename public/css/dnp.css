@@ -9,8 +9,8 @@ header {
 	white-space: nowrap;
 }
 
-div.page-header {
-	padding-left: 15px;
+.page-header {
+	border-bottom: 1px solid #eee;
 }
 
 section {

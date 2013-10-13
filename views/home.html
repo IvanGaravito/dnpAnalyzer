@@ -10,6 +10,11 @@
         </div>
         <div class="collapse navbar-collapse">
             <form id="datagramForm" class="navbar-form" role="form" action="/" method="GET">
+                <!--
+                    TODO: Make the form show multiple options
+                        Option 1: (Currrently) Enter a datagram and server analyzes
+                        Option 2: (New) Make a question, server asks the question to an UTR, UTR answers and server analyzes
+                -->
                 <div class="input-group">
                     <input type="text" id="datagram" name="datagram" class="form-control" placeholder="Type / paste the datagram" value="" autofocus required />
                     <span class="input-group-btn">
@@ -20,7 +25,7 @@
         </div>
 	</header>
 
-    <div class="page-header">
+    <div class="page-header alert alert-dismissable">
         <h1>DNP 3.0 Analyzer <small>Welcome! Enter the amazing world of DNP 3.0 protocol</small></h1>
         <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
     </div>
