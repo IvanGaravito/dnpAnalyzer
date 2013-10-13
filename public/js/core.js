@@ -42,4 +42,8 @@ $(function () {
         });
         e.preventDefault()
     })
+
+    $('.page-header button.close').click(function (e) {
+        $(this).parent().fadeOut()
+    })
 })
