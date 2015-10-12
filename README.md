@@ -6,6 +6,10 @@
 
 Under development.
 
+## Supported Object/Variation
+
+[See Supported](Supported.md)
+
 ## License 
 
 (The MIT License)
