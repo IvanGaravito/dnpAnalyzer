@@ -21,7 +21,9 @@ Object | Variation | Descripcion
 21     | 11, 12    | 32-bit, 16-bit frozen delta counter without flags
 30     | 1, 2      | 32-bit, 16-bit analog input
 30     | 3, 4      | 32-bit, 16-bit analog input without flags
+30     | 5, 6      | 32-bit, 64-bit float input with flags
 32     | 1, 2      | 32-bit, 16-bit analog change event without time
+32     | 5, 6      | 32-bit, 64-bit float change event with flags
 50     | 1         | Time and date
 50     | 2         | Time and date with interval
 50     | 3         | Last recorded time
