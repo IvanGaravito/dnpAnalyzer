@@ -9,6 +9,7 @@ Object | Variation | Descripcion
 2      | 3         | Binary input change with relative time
 10     | 1         | Single-bit binary output state
 10     | 2         | Binary output state with status
+12     | 1         | Control relay output block
 20     | 1, 2      | 32-bit, 16-bit counter
 20     | 3, 4      | 32-bit, 16-bit delta counter
 20     | 5, 6      | 32-bit, 16-bit counter without flags
