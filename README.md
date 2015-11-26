@@ -1,5 +1,7 @@
 # dnpAnalyzer
 
+[![Gratipay](https://img.shields.io/gratipay/IvanGaravito.svg)](https://gratipay.com/IvanGaravito)
+
 > A DNP 3.0 datagram parser for protocol learning and fail analysis.
 
 ## Introduction
