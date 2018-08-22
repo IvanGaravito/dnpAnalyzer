@@ -1,7 +1,5 @@
 # dnpAnalyzer
 
-[![Gratipay](https://img.shields.io/gratipay/IvanGaravito.svg)](https://gratipay.com/IvanGaravito)
-
 > A DNP 3.0 datagram parser for protocol learning and fail analysis.
 
 ## Introduction
@@ -12,11 +10,11 @@ Under development.
 
 [See Supported](Supported.md)
 
-## License 
+## License
 
 (The MIT License)
 
-Copyright (c) 2013 Ivan Garavito &lt;ivangaravito@gmail.com&gt;
+Copyright (c) 2018 Ivan Garavito &lt;ivangaravito@gmail.com&gt;
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
