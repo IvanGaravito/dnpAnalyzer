@@ -1,0 +1,31 @@
+{
+  "name": "dnpanalyzer",
+  "version": "0.0.0",
+  "description": "A DNP 3.0 datagram parser for protocol learning and fail analysis",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "extend": "^3.0.2",
+    "mime": "^2.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanGaravito/dnpAnalyzer.git"
+  },
+  "keywords": [
+    "dnp3",
+    "dnpAnalyzer"
+  ],
+  "author": "Ivan Garavito <ivangaravito@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IvanGaravito/dnpAnalyzer/issues"
+  },
+  "homepage": "https://github.com/IvanGaravito/dnpAnalyzer#readme"
+}
